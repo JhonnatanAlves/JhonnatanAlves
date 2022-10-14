@@ -3,6 +3,6 @@
 </p>
 
 ## Fico feliz em ter você aqui! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23">
-Sou nordestino e completamente apaixonado por tecnlogia!
+Sou nordestino e completamente apaixonado pela tecnlogia!
 <br>
 Meu sonho sempre foi impactar vidas positivamente atráves do poder e potencial que a tecnologia tem.
