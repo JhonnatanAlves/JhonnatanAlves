@@ -6,7 +6,6 @@
 Sou nordestino e completamente apaixonado pela tecnlogia!
 <br>
 Meu sonho sempre foi impactar vidas positivamente atráves do poder e potencial que a tecnologia tem.
-<<<<<<< HEAD
 <br>
 
 
